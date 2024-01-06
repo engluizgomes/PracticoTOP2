@@ -18,4 +18,4 @@
 •	Se recomienda tener Postman para probar y documentar las API.
 •	Descarga e instala Postman desde getpostman.com.
 
-Para más detalles, subimos el informe complecto em PDF con todos las informaciones necesarias para el proyecto. 
+Para más detalles, subimos el informe completo en PDF con toda la información necesaria para el proyecto. 
